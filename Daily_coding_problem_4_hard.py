@@ -18,7 +18,6 @@ def buscar(arreglo):
 
     print("Este es el numero que falta: ", minimo)
 
-
 arr = []
 print("Ingrese la cadena de caracteres: \n")
 while True:
